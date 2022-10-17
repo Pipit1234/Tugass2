@@ -1,0 +1,80 @@
+body	
+{
+	margin: auto;
+	padding: 0;
+	font: 16px calibri, sans-serif;
+
+}
+section
+{
+	height: 185vh;
+	background-image: url('biru.jpg');
+	background-size: cover;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+ .header ul li {
+ 	display: inline-block;
+ 	margin-top: 10px;
+ 	margin-right: 20px;
+ }
+
+.header a {
+	text-decoration: none;
+	color: darksalmon;
+	font-weight: bold;
+}
+ 
+ .header a:hover {
+ 	color: cornsilk;
+ 	background-color: darksalmon;
+ 	padding: 10px;
+ 	border-radius: 15px;
+ }
+
+.container {
+	width: 800px;
+	margin: auto;
+
+}
+h1 {
+	color: #fcfcfc;
+	margin:0; 
+	padding: 0;
+	text-align: left;
+	font-family: calibri;
+	position: :absolute;
+	top: 50%;
+	left: 50%
+	
+}
+h2 {
+	color: #fcfcfc;
+	margin:0;
+	padding: 0;
+	text-align: left;
+	font-family: calibri;
+	position: :absolute;
+	top: 50%;
+	left: 50%
+}
+p {
+	color: #fcfcfc;
+	margin:0;
+	padding: 0;
+	text-align: justify;
+	font-family: calibri;
+	position: :absolute;
+	top: 50%;
+	left: 50%
+	line-height: 30px;
+	text-indent: 50px;
+
+}
+h6 {
+	color: #fcfcfc;
+	font: 16px calibri, sans-serif;
+}
